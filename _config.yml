@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            The Verseless Book of Mormon Project
+title:            A Verseless Book of Mormon
 tagline:          
 url:              http://honestcoyote.github.io
 paginate:         1
