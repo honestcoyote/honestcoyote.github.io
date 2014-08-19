@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
+title: About the Verseless Book of Mormon
 ---
-
-##About the Verseless Book of Mormon
 
 Inspired by [Bibliotheca](http://www.bibliotheca.co), a beautifully laid-out verseless edition of the Bible, I decided to apply a similar layout and formatting for the Book of Mormon.
 
