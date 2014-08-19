@@ -3,28 +3,26 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+##About the Verseless Book of Mormon
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Inspired by [Bibliotheca](http://www.bibliotheca.co), a beautifully laid-out verseless edition of the Bible, I decided to apply a similar layout and formatting for the Book of Mormon.
 
-There are currently two themes built on Poole:
+The source text is the 1830 edition of [the Book of Mormon found on Gutenberg](http://www.gutenberg.org/cache/epub/17/pg17.txt). The current version used by the Church of Latter Day Saints is under copyright. If you are interested in the changes between versions, you can find a [listing here](http://www.utlm.org/onlinebooks/3913intro.htm).
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+##My Process, Edits, and Editions
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I've used a script to strip out the verse numbers and extraneous line breaks. I kept the division by chapters.
 
-## Setup
+I've chosen [ColdStyle](http://www.myfonts.com/fonts/ephemera/coldstyle/) for the font in the PDF version. The font gives the feel of a nineteenth century printing where the type has seen better days, but does so while still being quite readable.
 
-Some fun facts about the setup of this project include:
+Paragraphs are created where the text seems to indicate. When in doubt, I referred to the original verse structure to determine breaks, but most paragraphs will combine verses.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+Dialogue is broken out into its own paragraphs. Quotation marks, missing from the original, are added.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+I have made some light edits to the original text. For the most part, this involved removing most of instances of "And it came to pass." If you have previously read the Book of Mormon, you will already know this phrase is used constantly. I've left a few of these instances intact for the sake of flavor, but I've removed the majority of them. Since my project is at least partly aimed at non-Mormon readers, I think this change will greatly improve readability.
 
-Thanks for reading!
+The other edits are also very light. A few changes to punctuation, a removal of a few redundant sentences, and in a few cases I've added a word or two to clarify who is speaking in a dialogue or sermon.
+
+I've left the original spelling intact. 
+
+The final version of the Verseless Book of Mormon will come in two editions: one with my edits and one without. I'll also post a detailed list of the changes when the project is finished.
